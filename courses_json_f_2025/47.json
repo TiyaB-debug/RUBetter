@@ -1,0 +1,67 @@
+{
+    "courseOfferings": [
+        {
+            "offeringUnit": {
+                "code": "13"
+            },
+            "course": {
+                "subject": "047",
+                "number": "101"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "INTRO DRUG/ALCOHOL",
+            "fullTitle": "AN INTRODUCTION OF DRUG AND ALCOHOL USE DISORDERS                               ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "22892",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "GUERRA, ANA"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2229 @@
+{
+    "courseOfferings": [
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "630",
+                "number": "301"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "courseFee": null,
+            "title": "INTRO TO MARKETING",
+            "fullTitle": "INTRO TO MARKETING",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20532",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "800",
+                            "buildingCode": "TIL",
+                            "buildingNum": "4146",
+                            "roomNumber": "254",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "33",
+                            "description": "33 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus)"
+                        },
+                        {
+                            "description": "MINOR:"
+                        },
+                        {
+                            "code": "135",
+                            "description": "135 (Business Administration)"
+                        },
+                        {
+                            "code": "085",
+                            "description": "085 (Arts Management and Leadership)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20533",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "840",
+                            "endMinute": "1020",
+                            "buildingCode": "TIL",
+                            "buildingNum": "4146",
+                            "roomNumber": "232",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "33",
+                            "description": "33 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus)"
+                        },
+                        {
+                            "description": "MINOR:"
+                        },
+                        {
+                            "code": "135",
+                            "description": "135 (Business Administration)"
+                        },
+                        {
+                            "code": "085",
+                            "description": "085 (Arts Management and Leadership)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20534",
+                    "legendKey": null,
+                    "sectionNumber": "03",
+                    "sectionNotes": "COURSE IN PERSON MEETING DATES TBD AND REST ASYNCHRONOUS CONTENT ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Hybrid"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "620",
+                            "endMinute": "800",
+                            "buildingCode": "TIL",
+                            "buildingNum": "4146",
+                            "roomNumber": "254",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "KUNISH"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "33",
+                            "description": "33 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus)"
+                        },
+                        {
+                            "description": "MINOR:"
+                        },
+                        {
+                            "code": "085",
+                            "description": "085 (Arts Management and Leadership)"
+                        },
+                        {
+                            "code": "135",
+                            "description": "135 (Business Administration)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20536",
+                    "legendKey": null,
+                    "sectionNumber": "05",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "730",
+                            "endMinute": "910",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "5109",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "33",
+                            "description": "33 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus)"
+                        },
+                        {
+                            "description": "MINOR:"
+                        },
+                        {
+                            "code": "135",
+                            "description": "135 (Business Administration)"
+                        },
+                        {
+                            "code": "085",
+                            "description": "085 (Arts Management and Leadership)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20538",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "840",
+                            "endMinute": "1020",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "33",
+                            "description": "33 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus)"
+                        },
+                        {
+                            "description": "MINOR:"
+                        },
+                        {
+                            "code": "085",
+                            "description": "085 (Arts Management and Leadership)"
+                        },
+                        {
+                            "code": "135",
+                            "description": "135 (Business Administration)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20539",
+                    "legendKey": null,
+                    "sectionNumber": "91",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "840",
+                            "endMinute": "1020",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "TONCRE, ERICH"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "33",
+                            "description": "33 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus)"
+                        },
+                        {
+                            "description": "MINOR:"
+                        },
+                        {
+                            "code": "135",
+                            "description": "135 (Business Administration)"
+                        },
+                        {
+                            "code": "085",
+                            "description": "085 (Arts Management and Leadership)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20535",
+                    "legendKey": null,
+                    "sectionNumber": "92",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "800",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "TONCRE, ERICH"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "33",
+                            "description": "33 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus)"
+                        },
+                        {
+                            "description": "MINOR:"
+                        },
+                        {
+                            "code": "085",
+                            "description": "085 (Arts Management and Leadership)"
+                        },
+                        {
+                            "code": "135",
+                            "description": "135 (Business Administration)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20543",
+                    "legendKey": null,
+                    "sectionNumber": "95",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "KUNISH"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "33",
+                            "description": "33 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus)"
+                        },
+                        {
+                            "description": "MINOR:"
+                        },
+                        {
+                            "code": "135",
+                            "description": "135 (Business Administration)"
+                        },
+                        {
+                            "code": "085",
+                            "description": "085 (Arts Management and Leadership)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20537",
+                    "legendKey": null,
+                    "sectionNumber": "97",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Course may require: Webcam, Microphone, Phone Camera or Scanner",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "840",
+                            "endMinute": "1020",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "33",
+                            "description": "33 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus)"
+                        },
+                        {
+                            "description": "MINOR:"
+                        },
+                        {
+                            "code": "085",
+                            "description": "085 (Arts Management and Leadership)"
+                        },
+                        {
+                            "code": "135",
+                            "description": "135 (Business Administration)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20545",
+                    "legendKey": null,
+                    "sectionNumber": "H1",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        " For Honors Students only",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "840",
+                            "endMinute": "1020",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "3031",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "33",
+                            "description": "33 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus)"
+                        },
+                        {
+                            "description": "MINOR:"
+                        },
+                        {
+                            "code": "135",
+                            "description": "135 (Business Administration)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "630",
+                "number": "363"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:630:301 )<em> OR </em>(29:630:301 )",
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "INTRO TO ADVERTISING",
+            "fullTitle": "INTRO TO ADVERTISING",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20546",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "MARKETING MAJS ONLY; NO SP NUMBERS GIVEN FOR THIS COURSE  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "800",
+                            "buildingCode": "TIL",
+                            "buildingNum": "4146",
+                            "roomNumber": "253",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "KIM, JUNHA"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "UNIT/MAJOR:"
+                        },
+                        {
+                            "code": "33/630",
+                            "description": "33/630 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus/ MAJ: Marketing)"
+                        },
+                        {
+                            "description": "MINOR:"
+                        },
+                        {
+                            "code": "085",
+                            "description": "085 (Arts Management and Leadership)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20547",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": "MARKETING MAJS ONLY; NO SP NUMBERS GIVEN FOR THIS COURSE  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Course may require: Webcam, Microphone, Phone Camera or Scanner"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "1060",
+                            "endMinute": "1240",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "MORGAN, JEREMY"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "UNIT/MAJOR:"
+                        },
+                        {
+                            "code": "33/630",
+                            "description": "33/630 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus/ MAJ: Marketing)"
+                        },
+                        {
+                            "description": "MINOR:"
+                        },
+                        {
+                            "code": "085",
+                            "description": "085 (Arts Management and Leadership)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "630",
+                "number": "368"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:630:301 )<em> OR </em>(29:630:301 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "courseFee": null,
+            "title": "RETAIL MARKETING",
+            "fullTitle": "RETAIL MARKETING",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20548",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "620",
+                            "endMinute": "800",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "5073",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "UNIT/MAJOR:"
+                        },
+                        {
+                            "code": "33/630",
+                            "description": "33/630 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus/ MAJ: Marketing)"
+                        },
+                        {
+                            "code": "33/799",
+                            "description": "33/799 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus/ MAJ: Supply Chain Management)"
+                        },
+                        {
+                            "description": "CERT:"
+                        },
+                        {
+                            "code": "631",
+                            "description": "631 (SALES)"
+                        },
+                        {
+                            "code": "634",
+                            "description": "634 (Professional Selling)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "630",
+                "number": "369"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:630:301 )<em> OR </em>(29:630:301 )",
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "NEW PRODUCT PLANNING",
+            "fullTitle": "NEW PRODUCT PLANNING",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20549",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "620",
+                            "endMinute": "800",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "5113",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "QUEVEDO"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "UNIT/MAJOR:"
+                        },
+                        {
+                            "code": "33/630",
+                            "description": "33/630 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus/ MAJ: Marketing)"
+                        },
+                        {
+                            "code": "33/799",
+                            "description": "33/799 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus/ MAJ: Supply Chain Management)"
+                        },
+                        {
+                            "description": "CERT:"
+                        },
+                        {
+                            "code": "382",
+                            "description": "382 (ENTREPRENEURSHIP)"
+                        },
+                        {
+                            "code": "631",
+                            "description": "631 (SALES)"
+                        },
+                        {
+                            "code": "634",
+                            "description": "634 (Professional Selling)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "630",
+                "number": "370"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:630:301 )<em> OR </em>(29:630:301 )",
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "BUS-TO-BUS MARKETING",
+            "fullTitle": "BUS-TO-BUS MARKETING",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20550",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "1060",
+                            "endMinute": "1240",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "4071",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "UNIT/MAJOR:"
+                        },
+                        {
+                            "code": "33/799",
+                            "description": "33/799 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus/ MAJ: Supply Chain Management)"
+                        },
+                        {
+                            "code": "33/630",
+                            "description": "33/630 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus/ MAJ: Marketing)"
+                        },
+                        {
+                            "description": "CERT:"
+                        },
+                        {
+                            "code": "631",
+                            "description": "631 (SALES)"
+                        },
+                        {
+                            "code": "634",
+                            "description": "634 (Professional Selling)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "630",
+                "number": "374"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:630:301 )<em> OR </em>(29:630:301 )",
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "CONSUMER BEHAVIOR",
+            "fullTitle": "CONSUMER BEHAVIOR",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20552",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "ALL EXCEPT 1ST YEAR ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "840",
+                            "endMinute": "1020",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "4087",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "MORGAN, JEREMY"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "UNIT/MAJOR:"
+                        },
+                        {
+                            "code": "33/630",
+                            "description": "33/630 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus/ MAJ: Marketing)"
+                        },
+                        {
+                            "description": "CERT:"
+                        },
+                        {
+                            "code": "631",
+                            "description": "631 (SALES)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20551",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "ALL EXCEPT 1ST YEAR ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "620",
+                            "endMinute": "800",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "TONIETTO"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "UNIT/MAJOR:"
+                        },
+                        {
+                            "code": "33/630",
+                            "description": "33/630 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus/ MAJ: Marketing)"
+                        },
+                        {
+                            "description": "CERT:"
+                        },
+                        {
+                            "code": "631",
+                            "description": "631 (SALES)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "630",
+                "number": "385"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "((33:623:385  or 33:136:385 ) and (33:630:301 ))<em> OR </em> ((33:623:385  or 33:136:385 ) and (29:630:301 ))",
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "MARKETING RESEARCH",
+            "fullTitle": "MARKETING RESEARCH",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20554",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "1060",
+                            "endMinute": "1240",
+                            "buildingCode": "BE",
+                            "buildingNum": "4145",
+                            "roomNumber": "201",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "KIM, SUNGHOON"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "630",
+                            "description": "630 (Marketing)"
+                        },
+                        {
+                            "code": "799",
+                            "description": "799 (Supply Chain Management)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20555",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Course may require: Webcam, Microphone, Phone Camera or Scanner"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "800",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "KIM, HANNAH"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "630",
+                            "description": "630 (Marketing)"
+                        },
+                        {
+                            "code": "799",
+                            "description": "799 (Supply Chain Management)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "22907",
+                    "legendKey": null,
+                    "sectionNumber": "91",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "840",
+                            "endMinute": "1020",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "KIM, SUNGJIN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "630",
+                            "description": "630 (Marketing)"
+                        },
+                        {
+                            "code": "799",
+                            "description": "799 (Supply Chain Management)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "630",
+                "number": "401"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:630:301 )<em> OR </em>(29:630:301 )",
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "SALES MANAGEMENT",
+            "fullTitle": "SALES MANAGEMENT",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20556",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "800",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "3087",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "COHN, PHIL"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "UNIT/MAJOR:"
+                        },
+                        {
+                            "code": "33/799",
+                            "description": "33/799 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus/ MAJ: Supply Chain Management)"
+                        },
+                        {
+                            "code": "33/630",
+                            "description": "33/630 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus/ MAJ: Marketing)"
+                        },
+                        {
+                            "description": "CERT:"
+                        },
+                        {
+                            "code": "631",
+                            "description": "631 (SALES)"
+                        },
+                        {
+                            "code": "634",
+                            "description": "634 (Professional Selling)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "630",
+                "number": "428"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:630:301 )<em> OR </em>(29:630:301 )",
+            "coreCodes": "Non-Core: Community Engagement (CE)",
+            "courseFee": null,
+            "title": "NONPROFIT MARKETING",
+            "fullTitle": "NONPROFIT MARKETING                                                             ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20557",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "950",
+                            "endMinute": "1130",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "3087",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "QUEVEDO"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "630",
+                            "description": "630 (Marketing)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "630",
+                "number": "452"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:630:385 )<em> OR </em>(29:630:385 )",
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "MKTG STRATEGY & DECN",
+            "fullTitle": "MKTG STRATEGY & DECN",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20558",
+                    "legendKey": null,
+                    "sectionNumber": "03",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "SENIORS ONLY ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "800",
+                            "buildingCode": "BE",
+                            "buildingNum": "4145",
+                            "roomNumber": "111",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "USLAY, CAN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "630",
+                            "description": "630 (Marketing)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20559",
+                    "legendKey": null,
+                    "sectionNumber": "04",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "SENIORS ONLY ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "840",
+                            "endMinute": "1020",
+                            "buildingCode": "BE",
+                            "buildingNum": "4145",
+                            "roomNumber": "252",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "USLAY, CAN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "630",
+                            "description": "630 (Marketing)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "23301",
+                    "legendKey": null,
+                    "sectionNumber": "05",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "SENIORS ONLY ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "1060",
+                            "endMinute": "1240",
+                            "buildingCode": "TIL",
+                            "buildingNum": "4146",
+                            "roomNumber": "251",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "USLAY, CAN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "630",
+                            "description": "630 (Marketing)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "630",
+                "number": "485"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:630:301 )<em> OR </em>(29:630:301 )",
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "INTRO TO PROF SELLNG",
+            "fullTitle": "INTRO TO PROFESSIONAL SELLING                                                   ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20560",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "950",
+                            "endMinute": "1130",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "3087",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "COHN, PHIL"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "33",
+                            "description": "33 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus)"
+                        },
+                        {
+                            "description": "CERT:"
+                        },
+                        {
+                            "code": "634",
+                            "description": "634 (Professional Selling)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "630",
+                "number": "486"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:630:385 )",
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "IND STUDY IN MARKTNG",
+            "fullTitle": "IND STUDY IN MARKTNG",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20561",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "19",
+                            "meetingModeDesc": "PROJ-IND",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "630",
+                            "description": "630 (Marketing)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "630",
+                "number": "489"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:630:301 )<em> OR </em>(29:630:301 )",
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "SP TP:MRKT ANALYTICS",
+            "fullTitle": "SPECIAL TOPIC: MARKETING ANALTYICS                                              ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20563",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "840",
+                            "endMinute": "1020",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "4085",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "KIM, SUNGHOON"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "136",
+                            "description": "136 (Business Analytics and Information Technology)"
+                        },
+                        {
+                            "code": "630",
+                            "description": "630 (Marketing)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "630",
+                "number": "490"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:630:301 )",
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "MARKETING INTERNSHIP",
+            "fullTitle": "MARKETING INTERNSHIP",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20564",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Program",
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "19",
+                            "meetingModeDesc": "PROJ-IND",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "630",
+                            "description": "630 (Marketing)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "630",
+                "number": "491"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "MARKETING CO-OP",
+            "fullTitle": "MARKETING CO-OP                                                                 ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20253",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": "Department",
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "15",
+                            "meetingModeDesc": "INTERNSP",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [
+                        {
+                            "course": "33:011:482:01"
+                        }
+                    ],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "33",
+                            "description": "33 (Rutgers Business School - Newark/New Brunswick  - New Brunswick Campus)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "630",
+                "number": "497"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:630:301 )<em> OR </em>(29:630:301 )",
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "DIGITAL MARKETING",
+            "fullTitle": "DIGITAL MARKETING                                                               ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20567",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "630",
+                            "description": "630 (Marketing)"
+                        },
+                        {
+                            "description": "MINOR:"
+                        },
+                        {
+                            "code": "085",
+                            "description": "085 (Arts Management and Leadership)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20566",
+                    "legendKey": null,
+                    "sectionNumber": "91",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Course may require: Webcam, Microphone, Phone Camera or Scanner"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "620",
+                            "endMinute": "800",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "630",
+                            "description": "630 (Marketing)"
+                        },
+                        {
+                            "description": "MINOR:"
+                        },
+                        {
+                            "code": "085",
+                            "description": "085 (Arts Management and Leadership)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "630",
+                "number": "499"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:630:301 )<em> OR </em>(29:630:301 )",
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "MKTG CONSULT SML BUS",
+            "fullTitle": "MARKETING CONSULTING FOR SMALL BUSINESS                                         ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "20568",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "840",
+                            "endMinute": "1020",
+                            "buildingCode": "TIL",
+                            "buildingNum": "4146",
+                            "roomNumber": "207",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "630",
+                            "description": "630 (Marketing)"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

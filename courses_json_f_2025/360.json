@@ -1,0 +1,149 @@
+{
+    "courseOfferings": [
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "360",
+                "number": "349"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://europe.rutgers.edu/undergraduate/360-course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Arts and Literatures (AHp), SOE Only: Approved Humanities/Social Science (SOEHS), Writing and Communication in a Discipline (WCd)",
+            "courseFee": null,
+            "title": "CONT GER & EUR CINEM",
+            "fullTitle": "CONTEMPORARY GERMAN AND EUROPEAN CINEMA                                         ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "21765",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "4140",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "4140",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "KARL, REGINA"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:470:349:01"
+                        },
+                        {
+                            "course": "01:175:349:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "360",
+                "number": "390"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://europe.rutgers.edu/undergraduate/360-course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "INDEPENDENT STUDY",
+            "fullTitle": "INDEPENDENT STUDY",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "10597",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "STUDENT MUST WORK WITH CES FACULTY MEMBER  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "19",
+                            "meetingModeDesc": "PROJ-IND",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,967 @@
+{
+    "courseOfferings": [
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "762",
+                "number": "200"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/students/courses/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "INTRO CT & REG PLANG",
+            "fullTitle": "INTRODUCTION TO CITY & REGIONAL         PLANNING                                ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "22856",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "620",
+                            "endMinute": "800",
+                            "buildingCode": "CSB",
+                            "buildingNum": "3158",
+                            "roomNumber": "243",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "BAIRD-ZARS"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "10:971:200:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "762",
+                "number": "298"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/students/courses/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "INDEPENDENT STUDY",
+            "fullTitle": "INDEPENDENT STUDY",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "14735",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "19",
+                            "meetingModeDesc": "PROJ-IND",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "762",
+                "number": "312"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/students/courses/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "PRINCIPLES OF HOUSNG",
+            "fullTitle": "PRINCIPLES OF HOUSING                                                           ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "22886",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "1060",
+                            "endMinute": "1240",
+                            "buildingCode": "CSB",
+                            "buildingNum": "3158",
+                            "roomNumber": "112",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SEYMOUR, ERIC"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "34:970:529:01"
+                        },
+                        {
+                            "course": "10:971:312:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "762",
+                "number": "313"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/students/courses/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "PUB & NON PR FINANCE",
+            "fullTitle": "PUBLIC & NONPROFIT SECTOR FINANCE                                               ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "14736",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "WINECOFF, RUTH"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "10:971:313:90"
+                        },
+                        {
+                            "course": "10:843:313:90"
+                        },
+                        {
+                            "course": "10:833:313:90"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "762",
+                "number": "326"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/students/courses/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "FOOD & ENERGY POLICY",
+            "fullTitle": "SUSTAINABLE FOOD & ENERGY POLICY                                                ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "14737",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "620",
+                            "endMinute": "800",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "105",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "BULGER, GARIN"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "10:833:326:01"
+                        },
+                        {
+                            "course": "10:832:326:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "762",
+                "number": "332"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/students/courses/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "PUB TRANS & EQUIT AC",
+            "fullTitle": "PUBLIC TRANSPORTATION & EQUITABLE       ACCESSIBILITY                           ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "22887",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "1060",
+                            "endMinute": "1240",
+                            "buildingCode": "MU",
+                            "buildingNum": "3011",
+                            "roomNumber": "111",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [
+                        {
+                            "course": "10:971:332:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "762",
+                "number": "346"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/students/courses/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "PROGRAM EVALUATION",
+            "fullTitle": "PROGRAM EVALUATION                                                              ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "23278",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "BRANNIGAN"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "10:833:346:90"
+                        },
+                        {
+                            "course": "10:971:346:90"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "762",
+                "number": "360"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/students/courses/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "courseFee": null,
+            "title": "MANGNG PUB SECT ORGS",
+            "fullTitle": "MANAGING PUBLIC SECTOR ORGANIZATIONS                                            ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "14738",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "MCGUIRE, ANGIE"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "10:501:360:90"
+                        },
+                        {
+                            "course": "10:843:360:91"
+                        },
+                        {
+                            "course": "10:833:360:90"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "762",
+                "number": "362"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/students/courses/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "NONPROFIT MANAGEMENT",
+            "fullTitle": "NONPROFIT MANAGEMENT                                                            ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "14739",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "1060",
+                            "endMinute": "1140",
+                            "buildingCode": "FH",
+                            "buildingNum": "3117",
+                            "roomNumber": "B3",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "DEIDA, RENE"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "10:501:362:01"
+                        },
+                        {
+                            "course": "10:832:362:01"
+                        },
+                        {
+                            "course": "10:843:362:01"
+                        },
+                        {
+                            "course": "10:833:362:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "762",
+                "number": "371"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/students/courses/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "GLOB, SUST & JUSTICE",
+            "fullTitle": "GLOB, SUST & JUSTICE",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "14740",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "U",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SALZMAN, HAL"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "762",
+                "number": "400"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/students/courses/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Non-Core: Community Engagement (CE)",
+            "courseFee": "$75.00 (INTERNSHIP)",
+            "title": "INTERNSHIP",
+            "fullTitle": "INTERNSHIP                                                                      ",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "14741",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [
+                        "Online Course",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "DEOLI"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "10",
+                            "description": "10 (Edward J. Bloustein School of Planning and  Public Policy (Undergraduate))"
+                        },
+                        {
+                            "code": "762",
+                            "description": "762 (Planning and Public Policy)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "762",
+                "number": "461"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/students/courses/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Non-Core: Community Engagement (CE)",
+            "courseFee": null,
+            "title": "VOORHEES RESEARCH",
+            "fullTitle": "VOORHEES RESEARCH",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "14742",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "730",
+                            "endMinute": "910",
+                            "buildingCode": "CSB",
+                            "buildingNum": "3158",
+                            "roomNumber": "556",
+                            "meetingModeCode": "20",
+                            "meetingModeDesc": "PROJ-GRP",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "NEWMAN-SCHELL"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "762",
+                "number": "485"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/students/courses/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "INDEPENDENT STUDY",
+            "fullTitle": "INDEPENDENT STUDY                                                               ",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "14743",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "19",
+                            "meetingModeDesc": "PROJ-IND",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "762",
+                "number": "497"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/students/courses/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "courseFee": null,
+            "title": "BLOUSTEIN HONORS RES",
+            "fullTitle": "BLOUSTEIN HONORS RESEARCH IN PLANNING & PUBLIC POLICY                           ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "14744",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "19",
+                            "meetingModeDesc": "PROJ-IND",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "762",
+                            "description": "762 (Planning and Public Policy)"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
