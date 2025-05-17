@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from 'react';
+import { DEPARTMENTS } from '../departments.js';
+
 import {
   BrowserRouter as Router,
   Routes,
@@ -14,20 +16,18 @@ async function fetchJson(url) {
   return res.json();
 }
 
-function CourseList({ search, department }) {
+function CourseList({ search, department }) 
+{
   const [courses, setCourses] = useState(null);
   const [error, setError] = useState('');
   
   useEffect(() => {
     setCourses(null);
     setError('');
-    const qs = new URLSearchParams();
-    if (search)    qs.set('search', search);
-    if (department)qs.set('dept', department);
+    const val = new URLSearchParams();
+    if (search)    val.set('search', search);
+    if (department)val.set('dept', department);
     
-    fetchJson(`/api/courses?${qs.toString()}`)
-      .then(setCourses)
-      .catch(() => setError('Could not load courses'));
   }, [search, department]);
 
   if (error)   return <p className="view-content error">{error}</p>;
@@ -36,9 +36,7 @@ function CourseList({ search, department }) {
   return (
     <div className="view-content">
       <h1>Course Catalog</h1>
-      {courses.length === 0
-        ? <p>No courses found.</p>
-        : <div className="course-grid">
+         <div className="course-grid">
             {courses.map(c => (
               <div key={c.code} className="card">
                 <h3 className="card-title">{c.title}</h3>
@@ -49,7 +47,7 @@ function CourseList({ search, department }) {
               </div>
             ))}
           </div>
-      }
+  
     </div>
   );
 }
@@ -62,9 +60,6 @@ function CourseDetail() {
   useEffect(() => {
     setCourse(null);
     setError('');
-    fetchJson(`/api/courses/${code}`)
-      .then(setCourse)
-      .catch(() => setError('Could not load course details'));
   }, [code]);
 
   if (error)    return <p className="view-content error">{error}</p>;
@@ -118,16 +113,19 @@ export default function App() {
             value={search}
             onChange={e => setSearch(e.target.value)}
           />
-          <label>Department</label>
+          <label htmlFor="dept-select">Department</label>
           <select
             value={department}
             onChange={e => setDepartment(e.target.value)}
           >
-            <option value="">All</option>
-            <option value="CS">Computer Science</option> {/* Input the course list */}
-            <option value="MAT">Mathematics</option>
+            <option value="">--- Select a Subject Area ---</option>
+            {DEPARTMENTS.map(d => (
+              <option key={d.code} value={d.code}>
+                {`${d.name.toUpperCase()} (${d.code})`}
+              </option>
+            ))}
           </select>
-        </aside>
+      </aside>
 
         <main className="main">
           <Routes>
